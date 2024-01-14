@@ -1,3 +1,0 @@
-[console_scripts]
-camera_node = aruco_controller.camera_node:main
-
